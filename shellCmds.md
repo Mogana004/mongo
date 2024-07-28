@@ -31,8 +31,8 @@ once u have created account in mongodb ,
 ## Connect to the Database using Shell
  1) Get the connection string of the cluster  from the website and execute it in the terminal
 
-2)Enter the user password and press the enter key.
-3)In order to get the available databases, we can use the show dbs command.
+2) Enter the user password and press the enter key.
+3) In order to get the available databases, we can use the show dbs command.
 
 
 
