@@ -38,8 +38,8 @@ once u have created account in mongodb ,
 
 # commands 
 ### To  Create a Database 
-use <databaseName>
+     use databaseName
 ### To create a collection, 
-we use createCollection()
+     we use createCollection()
 ### Retrieve all the collections from the database.
-we use db.getCollectionNames()
+     we use db.getCollectionNames()
